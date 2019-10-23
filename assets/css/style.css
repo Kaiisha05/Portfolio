@@ -3,14 +3,20 @@ body  {
     }
 .image {
     float: left;
-    width: 300px;
+    width: 275px;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
 }
 .container {
-background: #ffffff;
-opacity: .8;
-margin: 25px 50px;
-padding: 15px 25px 25px;
+    min-width: 576px;
+background: #e9ecef;
+padding: 4rem 2rem;
+border-radius: .3rem;
+font: #212529;
+margin: 0px;
 }
+
+/* margin: 25px 50px;
+
+
